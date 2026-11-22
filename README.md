@@ -1,2 +1,1 @@
-# KAPU-DEVELOPER
-Kapucopy 
+leave
